@@ -72,8 +72,8 @@ ${ringkasanKeranjang}
 Total: ${rupiah(this.total)}
             `;
 
-            const botToken = '6995787022:AAFCJHxemuLnL0WO8AD97U5t4OlKmX1HwB4';  // ganti dengan token bot Anda
-            const chatId = '-4586363144';      // ganti dengan ID chat Anda
+            const botToken = '7515572368:AAHOAsZwUowieZXxmt6p7-Rn6TdrgoXIyWc';  // ganti dengan token bot Anda
+            const chatId = '7305490859';      // ganti dengan ID chat Anda
             
             const url = `https://api.telegram.org/bot${botToken}/sendMessage`;
             
