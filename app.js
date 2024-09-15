@@ -90,9 +90,9 @@ Total: ${rupiah(this.total)}
             });
 
             if (response.ok) {
-                alert('Pesanan berhasil dikirim!');
+                alert('pesanan berhasil dibuat');
             } else {
-                alert('Gagal mengirim pesanan. Silakan coba lagi.');
+                alert('gagal membuat pesanan,silahkan coba lagi');
             }
         }
     });
